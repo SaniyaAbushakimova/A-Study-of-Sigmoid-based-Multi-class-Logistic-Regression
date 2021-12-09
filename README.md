@@ -8,7 +8,7 @@ For this project several toolsets were utilized:
 - pandas
 - matplotlib.pyplot
 - time
-- sckiti.learn
+- scikit.learn
 
 ## Contents
 - `Preprocessing.ipynb` - Jupyter Notebook with data preprocessing.
