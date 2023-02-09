@@ -1,7 +1,3 @@
-This is a repository for a MATH540 - Statistical Learning course. The research project goal was to investigate how changing softmax activation function in multi-class logistic regression to sigmoid function would affect the performance of the model. 
-
-The project was done by Saniya Abushakimova.
-
 ## Toolset
 For this project several toolsets were utilized:
 - numpy
