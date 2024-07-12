@@ -1,3 +1,5 @@
+Project completed on Dec 9, 2021.
+
 ### Purpose 
 - Investigate how sigmoid-based multi-class logistic regression would perform compared to softmax_based one.
 
